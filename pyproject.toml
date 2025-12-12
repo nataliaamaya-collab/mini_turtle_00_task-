@@ -1,0 +1,14 @@
+[project]
+name = "mini_turtle_oo"
+version = "1.0.0"
+description = "Implementación orientada a objetos del proyecto Mini-Turtle"
+authors = [
+    { name = "natalia amaya" }
+]
+
+readme = "README.md"
+requires-python = ">=3.8"
+
+
+[project.urls]
+Homepage = https://github.com/nataliaamaya-collab/mi-primera-pagina/tree/main
