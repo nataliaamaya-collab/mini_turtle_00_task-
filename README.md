@@ -117,13 +117,6 @@ Al final, cada tortuga tiene su propia posición, lo que demuestra el encapsulam
 
 ---
 
-## ⚙️ Requisitos
-
-* Python 3.8 o superior
-* No se requieren librerías externas
-
----
-
 ## 🚀 Cómo Ejecutar
 
 Desde la carpeta del proyecto:
@@ -141,6 +134,7 @@ python main.py
 * Qué es el **encapsulamiento**
 * Por qué es mejor evitar variables globales
 * Cómo crear programas más organizados
+
 
 
 
